@@ -1,0 +1,42 @@
+0 A
+1 All The Best
+2 B
+3 C
+4 Confuse
+5 D
+6 E
+7 Everyone
+8 F
+9 G
+10 Great
+11 H
+12 Hii
+13 I
+14 I didn't Know
+15 J
+16 K
+17 Known
+18 L
+19 Learn
+20 M
+21 N
+22 No
+23 O
+24 P
+25 Please
+26 Proud
+27 Q
+28 Quiet 
+29 R
+30 S
+31 Sorry
+32 T
+33 Thank you
+34 U
+35 V
+36 Victory
+37 W
+38 X
+39 Y
+40 Yes
+41 Z
